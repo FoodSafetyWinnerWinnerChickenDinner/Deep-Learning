@@ -28,14 +28,9 @@
 
 <br><br>
 ## 분류 결과
-<p align="center" width="100%">
-  <img src="https://github.com/FoodSafetyWinnerWinnerChickenDinner/Deep-Learning/blob/master/docs/classification_result_01.png" width="300" height="600"></img>
-  <img src="https://github.com/FoodSafetyWinnerWinnerChickenDinner/Deep-Learning/blob/master/docs/classification_result_02.png" width="300" height="600"></img>
-  <br><br>
-  <img src="https://github.com/FoodSafetyWinnerWinnerChickenDinner/Deep-Learning/blob/master/docs/classification_result_03.png" width="300" height="600"></img>
-  <img src="https://github.com/FoodSafetyWinnerWinnerChickenDinner/Deep-Learning/blob/master/docs/classification_result_04.png" width="300" height="600"></img>
-</p>
-
+  | **소고기** | **돼지고기** | **생선 회** | **치킨** |
+  |:------------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+  |<p align="center" width="100%"><img src="https://github.com/FoodSafetyWinnerWinnerChickenDinner/Deep-Learning/blob/master/docs/classification_result_01.png"></img></p>|<p align="center" width="100%"><img src="https://github.com/FoodSafetyWinnerWinnerChickenDinner/Deep-Learning/blob/master/docs/classification_result_02.png"></img></p>|<p align="center" width="100%"><img src="https://github.com/FoodSafetyWinnerWinnerChickenDinner/Deep-Learning/blob/master/docs/classification_result_03.png"></img></p>|<p align="center" width="100%"><img src="https://github.com/FoodSafetyWinnerWinnerChickenDinner/Deep-Learning/blob/master/docs/classification_result_04.png"></img></p>|
 
 <br> 아래의 링크에서 간편하게 테스트해볼 수 있습니다. <br>
 [식 단 함](https://teachablemachine.withgoogle.com/models/B0eWw2wOg/)
